@@ -1,0 +1,39 @@
+chktex exit: 0
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex)
+ \write18 enabled.
+entering extended mode
+=== TeX engine is 'pdfTeX'
+Latexmk: applying rule 'bibtex primepub'...
+For rule 'bibtex primepub', running '&run_bibtex(  )' ...
+This is BibTeX, Version 0.99d (TeX Live 2020)
+The top-level auxiliary file: primepub.aux
+The style file: abbrvnat.bst
+Database file #1: sample.bib
+Latexmk: applying rule 'bibtex output'...
+For rule 'bibtex output', running '&run_bibtex(  )' ...
+This is BibTeX, Version 0.99d (TeX Live 2020)
+The top-level auxiliary file: output.aux
+The style file: abbrvnat.bst
+I found no \citation commands---while reading file output.aux
+Database file #1: sample.bib
+(There was 1 error message)
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex)
+ \write18 enabled.
+entering extended mode
+=== TeX engine is 'pdfTeX'
+Latexmk: applying rule 'bibtex primepub'...
+For rule 'bibtex primepub', running '&run_bibtex(  )' ...
+This is BibTeX, Version 0.99d (TeX Live 2020)
+The top-level auxiliary file: primepub.aux
+The style file: abbrvnat.bst
+Database file #1: sample.bib
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex)
+ \write18 enabled.
+entering extended mode
+=== TeX engine is 'pdfTeX'
+Latexmk: All targets (/compile/output.pdf) are up-to-date
+qpdf exit code=0
+Renaming optimised file to output.pdf
